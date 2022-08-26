@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sphinx-apidoc -f -o source ../../deepspeed
+sphinx-apidoc -f -o source ../deepspeed
 make html

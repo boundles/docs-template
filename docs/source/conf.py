@@ -70,7 +70,7 @@ html_context = {
     "conf_py_path": "/docs/source/",
 }
 
-sys.path.insert(0, os.path.abspath('../../../'))
+sys.path.insert(0, os.path.abspath('../../'))
 
 # Prepend module names to class descriptions?
 add_module_names = True
